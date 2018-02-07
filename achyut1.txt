@@ -1,3 +1,7 @@
 new file adding to cloned project
 
+<<<<<<< HEAD
 change done in the branch only
+=======
+change in master only
+>>>>>>> master
